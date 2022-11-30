@@ -10,7 +10,14 @@ int main()
     double y = 0.0;
     double result = 0.0;
     char oper = '+';
+    string test = "test";
+    int testINt = 1;
 
+
+
+    
+    cout << &testINt << '\n';
+    /*
     cout << "Calculator Console App\n\n";
     cout << "Please enter the operation to perform. Format: a+b | a*b | a/b" << endl;
 
@@ -29,6 +36,6 @@ int main()
         }
         cout << "Result is: " << result << "\n";
     }
-
+    */
     return 0;
 }

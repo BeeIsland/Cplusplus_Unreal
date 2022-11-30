@@ -47,7 +47,7 @@ int main()
     int resultingNum = add(1, 2, 3);
 
     cout << resultingNum;
-    
+    */
     //Vectors
     vector<int> nums;
 
@@ -70,12 +70,13 @@ int main()
         cout << "\n " << item << " ";
     }
 
-    */
+    
 
     //BankAccount main code
 
     BankAccount a1;
     a1.Deposit(90);
+    cout << a1.GetBalance(10);
 
     for (auto s : a1.Report())
     {
@@ -93,6 +94,10 @@ int main()
     {
         cout << s << '\n';
     }
+    char test = 'b';
+    void* test2 = &test;
+
+    cout <<  test2 << '\n';
 
 
     //Ending main

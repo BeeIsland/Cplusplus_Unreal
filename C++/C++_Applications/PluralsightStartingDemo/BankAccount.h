@@ -24,7 +24,7 @@ public:
 	vector<string> Report();
 	bool Deposit(int amount);
 	bool Withdraw(int amount);
-	int GetBalance() { return balance; }
+	int GetBalance(int balance) { return balance; }
 
 };
 
