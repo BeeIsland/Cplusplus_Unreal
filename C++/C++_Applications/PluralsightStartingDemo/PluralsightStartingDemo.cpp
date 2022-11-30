@@ -94,6 +94,7 @@ int main()
         cout << s << '\n';
     }
 
+
     //Ending main
     return 0;
 
