@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{59b15b7f-d1bd-4335-995c-a3b71f40886e}</ProjectGuid>
-    <RootNamespace>CalcTutorial</RootNamespace>
+    <ProjectGuid>{ac7a85c1-6720-48ae-bc6f-72e6683f63f7}</ProjectGuid>
+    <RootNamespace>PluralsightStartingDemo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CalcTutorial.cpp" />
-    <ClCompile Include="Calculator.cpp" />
+    <ClCompile Include="BankAccount.cpp" />
+    <ClCompile Include="mathFunctions.cpp" />
+    <ClCompile Include="PluralsightStartingDemo.cpp" />
+    <ClCompile Include="Transaction.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Calculator.h" />
+    <ClInclude Include="BankAccount.h" />
+    <ClInclude Include="Transaction.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
