@@ -1,0 +1,580 @@
+﻿Log file open, 02/04/17 12:42:28
+LogInit:Display: Running engine for game: BPFundamentals
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2104779267) SRandInit(-2104779267).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.140769
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Controlysis, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/Controlysis/Controlysis.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.04-12.42.28:813][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.04-12.42.28:813][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.04-12.42.28:866][  0]LogInit: Computer: DESKTOP-VGT605G
+[2017.02.04-12.42.28:866][  0]LogInit: User: Rob
+[2017.02.04-12.42.28:866][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.02.04-12.42.28:866][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2017.02.04-12.42.28:867][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.02.04-12.42.28:867][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.04-12.42.28:867][  0]LogMemory: Process Physical Memory: 264.29 MB used, 264.29 MB peak
+[2017.02.04-12.42.28:867][  0]LogMemory: Process Virtual Memory: 262.56 MB used, 262.56 MB peak
+[2017.02.04-12.42.28:867][  0]LogMemory: Physical Memory: 5897.59 MB used,  10438.99 MB free, 16336.57 MB total
+[2017.02.04-12.42.28:867][  0]LogMemory: Virtual Memory: 675.53 MB used,  10438.99 MB free, 134217728.00 MB total
+[2017.02.04-12.42.29:147][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.02.04-12.42.31:261][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.04-12.42.31:288][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2017.02.04-12.42.31:288][  0]LogD3D11RHI:       6102/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.02.04-12.42.31:289][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.02.04-12.42.31:289][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.02.04-12.42.31:289][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.04-12.42.31:296][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.04-12.42.31:296][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2017.02.04-12.42.31:296][  0]LogWindows: EnumDisplayDevices:
+[2017.02.04-12.42.31:296][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2017.02.04-12.42.31:296][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2017.02.04-12.42.31:296][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2017.02.04-12.42.31:296][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2017.02.04-12.42.31:296][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.02.04-12.42.31:296][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2017.02.04-12.42.31:297][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.02.04-12.42.31:297][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.02.04-12.42.31:297][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.02.04-12.42.31:307][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.04-12.42.31:337][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.02.04-12.42.31:345][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/Projects/UE4/BPFundamentals/Intermediate/Shaders/WorkingDirectory/6296/).
+[2017.02.04-12.42.31:345][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rob/AppData/Local/Temp/UnrealShaderWorkingDir/349029AD48756A977323CAA45D3FB410/'.
+[2017.02.04-12.42.31:345][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.04-12.42.33:911][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.04-12.42.33:954][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.04-12.42.33:995][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.04-12.42.34:039][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.04-12.42.34:083][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.04-12.42.34:128][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.04-12.42.34:169][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.04-12.42.34:213][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.04-12.42.34:246][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.04-12.42.34:291][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.04-12.42.34:332][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.04-12.42.34:374][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.04-12.42.34:415][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.04-12.42.34:457][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.04-12.42.34:498][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.04-12.42.34:582][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.04-12.42.34:582][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.04-12.42.34:611][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.04-12.42.34:703][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.04-12.42.34:730][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.04-12.42.34:770][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.04-12.42.34:811][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.04-12.42.34:852][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.04-12.42.34:897][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.04-12.42.34:897][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.04-12.42.35:470][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.04-12.42.35:705][  0]LogDerivedDataCache: Loaded boot cache 0.23s 50MB C:/Users/Rob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.04-12.42.35:705][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Rob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.04-12.42.35:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/UE4/BPFundamentals/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.04-12.42.35:705][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.04-12.42.35:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/UE4/BPFundamentals/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.04-12.42.35:705][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.04-12.42.35:751][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.04-12.42.35:764][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.04-12.42.38:330][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.04-12.42.38:340][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.04-12.42.38:587][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.04-12.42.38:632][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.04-12.42.38:673][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.04-12.42.38:673][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.04-12.42.38:673][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.04-12.42.39:988][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: bpfundamentals, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2115558515
+[2017.02.04-12.42.40:059][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2017.02.04-12.42.40:150][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.071303 seconds
+[2017.02.04-12.42.40:155][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.04-12.42.40:155][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.02.04-12.42.40:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.04-12.42.40:208][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.04-12.42.40:933][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.04-12.42.40:940][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.04-12.42.40:940][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.04-12.42.43:067][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.04-12.42.43:106][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.04-12.42.43:576][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.04-12.42.44:002][  0]SourceControl: Info Source control is disabled
+[2017.02.04-12.42.44:090][  0]SourceControl: Info Source control is disabled
+[2017.02.04-12.42.44:136][  0]SourceControl: Info Source control is disabled
+[2017.02.04-12.42.44:175][  0]SourceControl: Info Source control is disabled
+[2017.02.04-12.42.45:315][  0]LogEngine: Initializing Engine...
+[2017.02.04-12.42.45:316][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.04-12.42.45:650][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.04-12.42.45:671][  0]LogInit: XAudio2 using 'Speakers (Siberia V2 Illuminated)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.04-12.42.45:682][  0]LogInit: FAudioDevice initialized.
+[2017.02.04-12.42.45:703][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/Rob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.04-12.42.45:710][  0]LogInit: Texture streaming: Enabled
+[2017.02.04-12.42.45:888][  0]LogInit: Transaction tracking system initialized
+[2017.02.04-12.42.46:214][  0]BlueprintLog: New page: Editor Load
+[2017.02.04-12.42.47:141][  0]LocalizationService: Info Localization service is disabled
+[2017.02.04-12.42.48:046][  0]LogConsoleResponse:Display: 
+[2017.02.04-12.42.48:544][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.04-12.42.48:544][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.04-12.42.49:382][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Content/' took 0.01s
+[2017.02.04-12.42.49:382][  0]SourceControl: Info Source control is disabled
+[2017.02.04-12.42.49:442][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.42.54:123][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.42.54:126][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.42.58:054][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.42.58:055][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.43.17:787][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.43.17:789][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-12.43.17:800][  0]Cmd: MAP LOAD FILE="D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-12.43.17:801][  0]LightingResults: New page: Lighting Build
+[2017.02.04-12.43.17:843][  0]MapCheck: New page: Map Check
+[2017.02.04-12.43.17:843][  0]LightingResults: New page: Lighting Build
+[2017.02.04-12.43.18:286][  0]LogAIModule: Creating AISystem for world Main
+[2017.02.04-12.43.18:420][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-12.43.18:422][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-12.43.18:455][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 32.922ms to complete.
+[2017.02.04-12.43.18:455][  0]LogFileHelpers: Loading map 'Main' took 0.655
+[2017.02.04-12.43.18:633][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_27c4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_e18_0///####STATCAT_Advanced####
+[2017.02.04-12.43.18:633][  0]LogCollectionManager: Loaded 0 collections in 0.001816 seconds
+[2017.02.04-12.43.18:773][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Saved/Collections/' took 0.01s
+[2017.02.04-12.43.18:773][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Content/Developers/Rob/Collections/' took 0.01s
+[2017.02.04-12.43.18:773][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Content/Collections/' took 0.01s
+[2017.02.04-12.43.18:773][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.02.04-12.43.18:787][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2191 classes and 431 folders.
+[2017.02.04-12.43.18:842][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.04-12.43.18:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2017.02.04-12.43.18:844][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.02.04-12.43.18:905][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.02.04-12.43.19:275][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.02.04-12.43.19:325][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.02.04-12.43.19:445][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.04-12.43.20:643][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.02.04-12.43.20:668][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.02.04-12.43.20:873][  0]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BPFundamentals
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display: BranchPath = DESKTOP-VGT605G/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = DESKTOP-VGT605G/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Rob\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.02.04-12.43.20:873][  0]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.02.04-12.43.20:921][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.02.04-12.43.20:921][  0]LogLoad: (Engine Initialization) Total time: 55.02 seconds
+[2017.02.04-12.43.20:921][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.13 seconds
+[2017.02.04-12.43.20:922][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.04-12.43.20:922][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.04-12.43.20:931][  0]LogOcInput: OculusInput pre-init called
+[2017.02.04-12.43.20:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.04-12.43.21:221][  0]LogRenderer: Reallocating scene render targets to support 1208x676 NumSamples 1 (Frame:2).
+[2017.02.04-12.43.21:263][  1]LogAssetRegistry: Asset discovery search completed in 41.2257 seconds
+[2017.02.04-12.43.21:263][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.02.04-12.43.21:263][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000478 seconds (updated 0 objects)
+[2017.02.04-12.43.23:363][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture)
+[2017.02.04-12.43.25:753][491]Cmd: TRANSACTION UNDO
+[2017.02.04-12.43.25:753][491]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.43.26:303][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2017.02.04-12.43.27:867][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture)
+[2017.02.04-12.43.28:289][782]Cmd: TRANSACTION UNDO
+[2017.02.04-12.43.28:289][782]LogEditorTransaction: Undo Clicking on Actors
+[2017.02.04-12.43.30:406][ 31]Cmd: TRANSACTION UNDO
+[2017.02.04-12.43.30:406][ 31]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.43.30:722][ 68]Cmd: TRANSACTION UNDO
+[2017.02.04-12.43.30:722][ 68]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.43.34:220][485]MapCheck: New page: Map Check
+[2017.02.04-12.43.34:247][485]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.04-12.43.34:247][485]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.04-12.43.34:299][485]LightingResults: New page: Lighting Build - 4 Feb 2017 12:43:34
+[2017.02.04-12.43.34:378][485]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.04-12.43.34:456][485]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.04-12.43.34:469][485]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.04-12.43.35:540][485]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.04-12.43.35:540][485]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6296
+[2017.02.04-12.43.38:354][485]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.04-12.43.38:354][485]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.04-12.43.38:354][485]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.04-12.43.38:354][485]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.04-12.43.38:354][485]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.04-12.43.38:493][485]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.04-12.43.38:493][485]MapCheck: New page: Main - 4 Feb 2017 12:43:38
+[2017.02.04-12.43.38:526][485]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 32.644ms to complete.
+[2017.02.04-12.43.38:548][485]LogEditorBuildUtils: Build time 0:04
+[2017.02.04-12.43.56:900][247]Job is a success!
+[2017.02.04-12.43.57:424][249]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2017.02.04-12.43.57:424][249]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.02.04-12.43.57:424][249]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.02.04-12.43.57:424][249]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2017.02.04-12.43.57:424][249]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.02.04-12.43.57:424][249]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.02.04-12.43.57:549][249]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2017.02.04-12.43.57:549][249]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.02.04-12.43.57:581][249]Lightmass on DESKTOP-VGT605G: 18.2 sec total, 151 ms importing, 14 ms setup, 590 ms photons, 17.4 sec processing, 0 ms extra exporting [29/29 mappings]. Threads: 1:09 min total, 49.2 sec processing.
+[2017.02.04-12.43.57:593][249]LogStaticLightingSystem: Illumination: 23.2 sec (454 ms encoding lightmaps, 117 ms encoding shadowmaps)
+[2017.02.04-12.43.57:593][249]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.04-12.43.57:593][249]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.04-12.43.58:359][249]DumpUnbuiltLightIteractions
+[2017.02.04-12.43.58:360][249]Lights with unbuilt interactions: 0
+[2017.02.04-12.43.58:360][249]
+[2017.02.04-12.43.58:360][249]Primitives with unbuilt interactions: 0
+[2017.02.04-12.43.58:381][250]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.04-12.43.58:382][250]MapCheck: New page: Main - 4 Feb 2017 12:43:58
+[2017.02.04-12.43.58:445][250]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 64.127ms to complete.
+[2017.02.04-12.44.01:761][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.04-12.44.03:379][830]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.04-12.44.03:390][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.04-12.44.03:391][830]PIE: New page: PIE session: Main (4 Feb 2017 12:44:03)
+[2017.02.04-12.44.03:391][830]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.02.04-12.44.03:394][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003127s)
+[2017.02.04-12.44.03:394][830]LogAIModule: Creating AISystem for world Main
+[2017.02.04-12.44.03:395][830]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2017.02.04-12.44.03:395][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004029s)
+[2017.02.04-12.44.03:409][830]LogInit: XAudio2 using 'Speakers (Siberia V2 Illuminated)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.04-12.44.03:414][830]LogInit: FAudioDevice initialized.
+[2017.02.04-12.44.03:470][830]LogLoad: Game class is 'GameModeBase'
+[2017.02.04-12.44.03:473][830]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.02.04-12.44.03
+[2017.02.04-12.44.03:474][830]LogWorld: Bringing up level for play took: 0.001246
+[2017.02.04-12.44.03:510][830]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.02.04-12.44.03:513][830]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.651
+[2017.02.04-12.44.06:798][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2017.02.04-12.44.08:144][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.04-12.44.12:311][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture)
+[2017.02.04-12.44.15:705][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.04-12.44.37:731][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture)
+[2017.02.04-12.44.39:100][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2017.02.04-12.44.42:856][416]LogRenderer: Reallocating scene render targets to support 1392x964 NumSamples 1 (Frame:9274).
+[2017.02.04-12.45.00:891][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material/M_FlatPicture" FILE="D:/Projects/UE4/BPFundamentals/Content/Assets/Material/M_FlatPicture.uasset" SILENT=true
+[2017.02.04-12.45.00:986][555]LogSavePackage: Save=31.62ms
+[2017.02.04-12.45.00:986][555]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/M_FlatPicture00DF7D094ED657D407005B85FE2BF5F6.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Assets/Material/M_FlatPicture.uasset'
+[2017.02.04-12.45.00:992][555]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Assets/Material/M_FlatPicture.uasset
+[2017.02.04-12.45.03:673][864]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Picture)
+[2017.02.04-12.45.04:035][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2017.02.04-12.45.05:731][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2017.02.04-12.45.06:185][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.02.04-12.45.10:490][641]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.02.04-12.45.56:452][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.02.04-12.46.08:205][526]Cmd: TRANSACTION UNDO
+[2017.02.04-12.46.08:205][526]LogEditorTransaction: Undo Rotate Actors
+[2017.02.04-12.46.08:895][603]Cmd: TRANSACTION UNDO
+[2017.02.04-12.46.08:895][603]LogEditorTransaction: Undo Rotate Actors
+[2017.02.04-12.46.09:479][671]Cmd: TRANSACTION UNDO
+[2017.02.04-12.46.09:479][671]LogEditorTransaction: Undo Rotate Actors
+[2017.02.04-12.46.15:175][349]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.04-12.46.16:603][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.02.04-12.46.21:270][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.02.04-12.46.25:700][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2017.02.04-12.46.29:026][934]MapCheck: New page: Map Check
+[2017.02.04-12.46.29:039][934]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.04-12.46.29:039][934]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.04-12.46.29:054][934]LightingResults: New page: Lighting Build - 4 Feb 2017 12:46:29
+[2017.02.04-12.46.29:059][934]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.04-12.46.29:060][934]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.04-12.46.29:060][934]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.04-12.46.29:061][934]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.04-12.46.29:061][934]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6296
+[2017.02.04-12.46.33:586][934]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.04-12.46.33:586][934]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.04-12.46.33:586][934]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.04-12.46.33:586][934]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.04-12.46.33:586][934]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.04-12.46.33:690][934]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.04-12.46.33:690][934]MapCheck: New page: Main - 4 Feb 2017 12:46:33
+[2017.02.04-12.46.33:690][934]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2017.02.04-12.46.33:722][934]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 32.36ms to complete.
+[2017.02.04-12.46.33:744][934]LogEditorBuildUtils: Build time 0:04
+[2017.02.04-12.46.50:968][988]Job is a success!
+[2017.02.04-12.46.51:870][989]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.02.04-12.46.51:870][989]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.02.04-12.46.51:870][989]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.02.04-12.46.51:870][989]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.02.04-12.46.51:870][989]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.02.04-12.46.51:870][989]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.02.04-12.46.51:994][989]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2017.02.04-12.46.51:994][989]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.02.04-12.46.52:015][989]LogStaticLightingSystem: Illumination: 22.6 sec (476 ms encoding lightmaps, 118 ms encoding shadowmaps)
+[2017.02.04-12.46.52:015][989]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.04-12.46.52:015][989]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.04-12.46.52:607][989]DumpUnbuiltLightIteractions
+[2017.02.04-12.46.52:607][989]Lights with unbuilt interactions: 0
+[2017.02.04-12.46.52:607][989]
+[2017.02.04-12.46.52:607][989]Primitives with unbuilt interactions: 0
+[2017.02.04-12.46.52:623][990]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.04-12.46.52:624][990]MapCheck: New page: Main - 4 Feb 2017 12:46:52
+[2017.02.04-12.46.52:681][990]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 58.226ms to complete.
+[2017.02.04-12.47.10:424][127]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.02.04-12.47.10:882][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.04-12.47.18:649][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2017.02.04-12.47.19:333][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.04-12.47.23:212][634]Cmd: TRANSACTION UNDO
+[2017.02.04-12.47.23:212][634]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.47.37:813][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture)
+[2017.02.04-12.47.51:927][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.04-12.47.57:136][671]Cmd: TRANSACTION UNDO
+[2017.02.04-12.47.57:136][671]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.47.57:592][723]Cmd: TRANSACTION UNDO
+[2017.02.04-12.47.57:592][723]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.47.57:967][766]Cmd: TRANSACTION UNDO
+[2017.02.04-12.47.57:967][766]LogEditorTransaction: Undo Move Actors
+[2017.02.04-12.48.01:840][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.04-12.48.07:692][633]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.02.04-12.48.09:095][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.02.04-12.53.26:641][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.02.04-12.53.26:685][392]LogSavePackage: Save=36.65ms
+[2017.02.04-12.53.26:685][392]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Main_Auto187112BFA4C4B962B9E8065908F44F47C.tmp' to 'D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2017.02.04-12.53.26:685][392]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Maps/Main_Auto1.umap
+[2017.02.04-12.53.26:688][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="D:/Projects/UE4/BPFundamentals/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2017.02.04-12.53.26:864][392]LogSavePackage: Save=12.09ms
+[2017.02.04-12.53.26:864][392]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Main_BuiltData13B89FA64E2CB7B3981C5B8CAB7A247B.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Maps/Main_BuiltData.uasset'
+[2017.02.04-12.53.26:865][392]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Maps/Main_BuiltData.uasset
+[2017.02.04-12.53.26:866][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.234
+[2017.02.04-12.53.26:866][392]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2017.02.04-12.53.26:868][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Material/M_FlatPicture] ([1] browsable assets)...
+[2017.02.04-12.53.26:868][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material/M_FlatPicture]
+[2017.02.04-12.53.26:868][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material/M_FlatPicture" FILE="D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Material/M_FlatPicture_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.02.04-12.53.26:889][392]LogSavePackage: Save=15.95ms
+[2017.02.04-12.53.26:889][392]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/M_FlatPicture_Auto14119256849367600FFF6AEA31B63EC3F.tmp' to 'D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Material/M_FlatPicture_Auto1.uasset'
+[2017.02.04-12.53.26:889][392]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Material/M_FlatPicture_Auto1.uasset
+[2017.02.04-12.53.26:889][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material/M_FlatPicture2] ([1] browsable assets)...
+[2017.02.04-12.53.26:913][392]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Material/M_FlatPicture2.M_FlatPicture2]
+[2017.02.04-12.53.26:913][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material/M_FlatPicture2]
+[2017.02.04-12.53.26:913][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material/M_FlatPicture2" FILE="D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Material/M_FlatPicture2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.02.04-12.53.26:930][392]LogSavePackage: Save=12.44ms
+[2017.02.04-12.53.26:930][392]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/M_FlatPicture2_Auto146B9FDC34E2C1FB60A70029C9A25438B.tmp' to 'D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Material/M_FlatPicture2_Auto1.uasset'
+[2017.02.04-12.53.26:930][392]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Material/M_FlatPicture2_Auto1.uasset
+[2017.02.04-12.53.26:930][392]LogFileHelpers: Auto-saving content packages took 0.062
+[2017.02.04-13.04.06:205][265]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Rob/Desktop/Button.fbx)
+[2017.02.04-13.04.06:229][265]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.04-13.04.06:229][265]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.04-13.04.06:229][265]LogFbx: ItemName: Model, ItemCount : 1
+[2017.02.04-13.04.06:237][265]LogFbx: Loading FBX Scene from ../../../../../../Users/Rob/Desktop/Button.fbx
+[2017.02.04-13.04.06:246][265]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.04-13.04.10:649][265]LogFbx: Loading FBX Scene from ../../../../../../Users/Rob/Desktop/Button.fbx
+[2017.02.04-13.04.10:654][265]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.04-13.04.10:666][265]LogFbx:Warning: Triangulating static mesh Cylinder.002
+[2017.02.04-13.04.10:682][265]LogStaticMesh: Building static mesh Button...
+[2017.02.04-13.04.10:685][265]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Button.Button
+[2017.02.04-13.04.10:686][265]LogStaticMesh:Warning: Button has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.04-13.04.10:693][265]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.04-13.04.10:693][265]FBXImport:Warning: Warning Button has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.04-13.04.10:693][265]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.02.04-13.04.10:696][265]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Rob/Desktop/ButtonHolder.fbx)
+[2017.02.04-13.04.10:706][265]LogFbx: Loading FBX Scene from ../../../../../../Users/Rob/Desktop/ButtonHolder.fbx
+[2017.02.04-13.04.10:710][265]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.04-13.04.10:712][265]LogFbx:Warning: Triangulating static mesh Cylinder
+[2017.02.04-13.04.10:730][265]LogStaticMesh: Building static mesh ButtonHolder...
+[2017.02.04-13.04.10:733][265]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/ButtonHolder.ButtonHolder
+[2017.02.04-13.04.10:734][265]LogStaticMesh:Warning: ButtonHolder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.04-13.04.10:737][265]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.04-13.04.10:737][265]FBXImport:Warning: Warning ButtonHolder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.04-13.04.10:737][265]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.02.04-13.04.13:801][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.007
+[2017.02.04-13.04.13:802][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/Button] ([1] browsable assets)...
+[2017.02.04-13.04.13:813][549]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Meshes/Button.Button]
+[2017.02.04-13.04.13:813][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/Button]
+[2017.02.04-13.04.13:813][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Button" FILE="D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Meshes/Button_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.02.04-13.04.13:824][549]LogSavePackage: Save=10.11ms
+[2017.02.04-13.04.13:824][549]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Button_Auto2D374948C40EA44BC03972593A78B8BC5.tmp' to 'D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Meshes/Button_Auto2.uasset'
+[2017.02.04-13.04.13:839][549]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Meshes/Button_Auto2.uasset
+[2017.02.04-13.04.13:839][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/ButtonHolder] ([1] browsable assets)...
+[2017.02.04-13.04.13:849][549]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Meshes/ButtonHolder.ButtonHolder]
+[2017.02.04-13.04.13:849][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/ButtonHolder]
+[2017.02.04-13.04.13:849][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/ButtonHolder" FILE="D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Meshes/ButtonHolder_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.02.04-13.04.13:860][549]LogSavePackage: Save=9.66ms
+[2017.02.04-13.04.13:860][549]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/ButtonHolder_Auto26598F5EB45466BB5505B51A3413C5E4B.tmp' to 'D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Meshes/ButtonHolder_Auto2.uasset'
+[2017.02.04-13.04.13:860][549]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Saved/Autosaves/Game/Assets/Meshes/ButtonHolder_Auto2.uasset
+[2017.02.04-13.04.13:860][549]LogFileHelpers: Auto-saving content packages took 0.058
+[2017.02.04-13.04.15:121][678]LogRenderer: Reallocating scene render targets to support 1432x964 NumSamples 1 (Frame:32531).
+[2017.02.04-13.04.32:543][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/ButtonHolder" FILE="D:/Projects/UE4/BPFundamentals/Content/Assets/Meshes/ButtonHolder.uasset" SILENT=true
+[2017.02.04-13.04.32:555][745]LogSavePackage: Save=10.19ms
+[2017.02.04-13.04.32:555][745]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/ButtonHolderC78FF1744A8C9A9202DDB79095F1837E.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Assets/Meshes/ButtonHolder.uasset'
+[2017.02.04-13.04.32:558][745]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Assets/Meshes/ButtonHolder.uasset
+[2017.02.04-13.04.46:377][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Button" FILE="D:/Projects/UE4/BPFundamentals/Content/Assets/Meshes/Button.uasset" SILENT=true
+[2017.02.04-13.04.46:396][259]LogSavePackage: Save=9.42ms
+[2017.02.04-13.04.46:396][259]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Button80C22264412F675CFF53E6A4CFAA8A05.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Assets/Meshes/Button.uasset'
+[2017.02.04-13.04.46:397][259]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Assets/Meshes/Button.uasset
+[2017.02.04-13.04.49:417][532]LogActorFactory: Actor Factory created ButtonHolder
+[2017.02.04-13.04.49:418][532]LogActorFactory: Actor Factory created Button
+[2017.02.04-13.04.50:239][606]LogActorFactory: Actor Factory created ButtonHolder
+[2017.02.04-13.04.50:254][606]LogActorFactory: Actor Factory created Button
+[2017.02.04-13.04.50:395][616]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.04-13.04.59:102][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.02.04-13.05.07:613][373]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.04-13.05.07:623][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.04-13.05.07:623][373]PIE: New page: PIE session: Main (4 Feb 2017 13:05:07)
+[2017.02.04-13.05.07:623][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.02.04-13.05.07:626][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002986s)
+[2017.02.04-13.05.07:627][373]LogAIModule: Creating AISystem for world Main
+[2017.02.04-13.05.07:627][373]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.02.04-13.05.07:627][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004047s)
+[2017.02.04-13.05.07:641][373]LogInit: XAudio2 using 'Speakers (Siberia V2 Illuminated)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.04-13.05.07:647][373]LogInit: FAudioDevice initialized.
+[2017.02.04-13.05.07:679][373]LogLoad: Game class is 'GameModeBase'
+[2017.02.04-13.05.07:681][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.02.04-13.05.07
+[2017.02.04-13.05.07:682][373]LogWorld: Bringing up level for play took: 0.001684
+[2017.02.04-13.05.07:683][373]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.821
+[2017.02.04-13.05.17:588][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button)
+[2017.02.04-13.05.21:389][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.04-13.05.21:427][854]LogSavePackage: Save=26.51ms
+[2017.02.04-13.05.21:427][854]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Main3588E5A249EC667D33022E91F6FDD909.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap'
+[2017.02.04-13.05.21:432][854]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap
+[2017.02.04-13.05.21:448][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="D:/Projects/UE4/BPFundamentals/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2017.02.04-13.05.21:533][854]LogSavePackage: Save=73.18ms
+[2017.02.04-13.05.21:533][854]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Main_BuiltData177488EC458FDEE3AEC9F28D44D70E14.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Maps/Main_BuiltData.uasset'
+[2017.02.04-13.05.21:538][854]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Maps/Main_BuiltData.uasset
+[2017.02.04-13.06.17:793][408]LogEditorFactories: Performing atomic reimport of [C:/Users/Rob/Desktop/ButtonHolder.fbx]
+[2017.02.04-13.06.17:812][408]LogFbx: Loading FBX Scene from C:/Users/Rob/Desktop/ButtonHolder.fbx
+[2017.02.04-13.06.17:817][408]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.04-13.06.17:819][408]LogFbx:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.
+[2017.02.04-13.06.17:819][408]LogFbx:Warning: Triangulating static mesh Cylinder
+[2017.02.04-13.06.17:843][408]LogStaticMesh: Building static mesh ButtonHolder...
+[2017.02.04-13.06.17:846][408]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/ButtonHolder.ButtonHolder
+[2017.02.04-13.06.17:848][408]LogStaticMesh:Warning: ButtonHolder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.04-13.06.17:850][408]LogFbx:Warning: Warning ButtonHolder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.04-13.06.17:860][408]LogWindows: Windows GetLastError: The operation completed successfully. (0)

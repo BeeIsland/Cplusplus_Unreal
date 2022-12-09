@@ -1,0 +1,1080 @@
+﻿Log file open, 02/04/17 07:10:47
+LogInit:Display: Running engine for game: BPFundamentals
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1473973427) SRandInit(-1473973427).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.080696
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Controlysis, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/Controlysis/Controlysis.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.04-07.10.47:366][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.04-07.10.47:366][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.04-07.10.47:373][  0]LogInit: Computer: DESKTOP-VGT605G
+[2017.02.04-07.10.47:373][  0]LogInit: User: Rob
+[2017.02.04-07.10.47:373][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.02.04-07.10.47:373][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2017.02.04-07.10.47:373][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.02.04-07.10.47:373][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.04-07.10.47:373][  0]LogMemory: Process Physical Memory: 264.30 MB used, 264.30 MB peak
+[2017.02.04-07.10.47:373][  0]LogMemory: Process Virtual Memory: 262.72 MB used, 262.72 MB peak
+[2017.02.04-07.10.47:373][  0]LogMemory: Physical Memory: 8835.02 MB used,  7501.55 MB free, 16336.57 MB total
+[2017.02.04-07.10.47:373][  0]LogMemory: Virtual Memory: 675.53 MB used,  7501.55 MB free, 134217728.00 MB total
+[2017.02.04-07.10.47:395][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.02.04-07.10.47:909][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.04-07.10.47:937][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2017.02.04-07.10.47:937][  0]LogD3D11RHI:       6102/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.02.04-07.10.47:938][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.02.04-07.10.47:938][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.02.04-07.10.47:938][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.04-07.10.47:942][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.04-07.10.47:942][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2017.02.04-07.10.47:942][  0]LogWindows: EnumDisplayDevices:
+[2017.02.04-07.10.47:942][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2017.02.04-07.10.47:942][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2017.02.04-07.10.47:942][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2017.02.04-07.10.47:942][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2017.02.04-07.10.47:942][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.02.04-07.10.47:942][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2017.02.04-07.10.47:942][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.02.04-07.10.47:942][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.02.04-07.10.47:942][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.02.04-07.10.47:956][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.04-07.10.47:971][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.02.04-07.10.47:971][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/Projects/UE4/BPFundamentals/Intermediate/Shaders/WorkingDirectory/9048/).
+[2017.02.04-07.10.47:971][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rob/AppData/Local/Temp/UnrealShaderWorkingDir/811CBE2F42ACB9E832F410A2DFE7C2BB/'.
+[2017.02.04-07.10.47:971][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.04-07.10.48:834][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.04-07.10.48:877][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.04-07.10.48:921][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.04-07.10.48:965][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.04-07.10.49:009][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.04-07.10.49:053][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.04-07.10.49:097][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.04-07.10.49:142][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.04-07.10.49:177][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.04-07.10.49:221][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.04-07.10.49:266][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.04-07.10.49:312][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.04-07.10.49:357][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.04-07.10.49:401][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.04-07.10.49:447][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.04-07.10.49:540][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.04-07.10.49:540][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.04-07.10.49:573][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.04-07.10.49:647][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.04-07.10.49:675][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.04-07.10.49:716][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.04-07.10.49:760][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.04-07.10.49:803][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.04-07.10.49:848][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.04-07.10.49:848][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.04-07.10.50:175][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.04-07.10.50:217][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB C:/Users/Rob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.04-07.10.50:217][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Rob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.04-07.10.50:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/UE4/BPFundamentals/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.04-07.10.50:217][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.04-07.10.50:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/UE4/BPFundamentals/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.04-07.10.50:217][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.04-07.10.50:231][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.04-07.10.50:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.04-07.10.50:406][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.04-07.10.50:409][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.04-07.10.50:578][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.04-07.10.50:612][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.04-07.10.50:647][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.04-07.10.50:647][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.04-07.10.50:647][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.04-07.10.51:063][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: bpfundamentals, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2115558515
+[2017.02.04-07.10.51:112][  0]LogAssetRegistry: FAssetRegistry took 0.0214 seconds to start up
+[2017.02.04-07.10.51:150][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.020841 seconds
+[2017.02.04-07.10.51:155][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.04-07.10.51:155][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.02.04-07.10.51:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.04-07.10.51:206][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.04-07.10.51:858][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.04-07.10.51:858][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.04-07.10.51:858][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.04-07.10.52:551][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.04-07.10.52:603][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.04-07.10.52:968][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.04-07.10.53:270][  0]SourceControl: Info Source control is disabled
+[2017.02.04-07.10.53:305][  0]SourceControl: Info Source control is disabled
+[2017.02.04-07.10.53:344][  0]SourceControl: Info Source control is disabled
+[2017.02.04-07.10.53:381][  0]SourceControl: Info Source control is disabled
+[2017.02.04-07.10.54:394][  0]LogEngine: Initializing Engine...
+[2017.02.04-07.10.54:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.04-07.10.54:592][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.04-07.10.54:603][  0]LogInit: XAudio2 using 'Speakers (Siberia V2 Illuminated)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.04-07.10.54:611][  0]LogInit: FAudioDevice initialized.
+[2017.02.04-07.10.54:632][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/Rob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.04-07.10.54:640][  0]LogInit: Texture streaming: Enabled
+[2017.02.04-07.10.54:785][  0]LogInit: Transaction tracking system initialized
+[2017.02.04-07.10.55:061][  0]BlueprintLog: New page: Editor Load
+[2017.02.04-07.10.55:866][  0]LocalizationService: Info Localization service is disabled
+[2017.02.04-07.10.56:734][  0]LogConsoleResponse:Display: 
+[2017.02.04-07.10.56:841][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Content/' took 0.01s
+[2017.02.04-07.10.56:841][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.04-07.10.56:841][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.04-07.10.57:608][  0]SourceControl: Info Source control is disabled
+[2017.02.04-07.10.57:609][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/StarterContent.upack)
+[2017.02.04-07.10.57:624][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.02.04-07.10.57:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.02.04-07.10.57:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.02.04-07.10.57:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.02.04-07.10.57:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.02.04-07.10.57:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.02.04-07.10.57:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.02.04-07.10.57:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.02.04-07.10.57:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.02.04-07.10.57:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.02.04-07.10.57:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.02.04-07.10.57:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.02.04-07.10.57:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.02.04-07.10.57:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.02.04-07.10.57:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.02.04-07.10.57:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.02.04-07.10.57:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.02.04-07.10.57:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.02.04-07.10.57:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Fire01.uasset"
+[2017.02.04-07.10.57:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.02.04-07.10.57:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.02.04-07.10.57:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.02.04-07.10.57:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Light01.uasset"
+[2017.02.04-07.10.57:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.02.04-07.10.57:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Light02.uasset"
+[2017.02.04-07.10.57:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.02.04-07.10.57:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.02.04-07.10.57:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.02.04-07.10.57:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.02.04-07.10.57:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.02.04-07.10.57:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.02.04-07.10.57:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.02.04-07.10.57:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.02.04-07.10.57:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.02.04-07.10.57:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Steam01.uasset"
+[2017.02.04-07.10.57:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.02.04-07.10.57:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.02.04-07.10.57:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.02.04-07.10.57:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.02.04-07.10.57:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.02.04-07.10.57:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.02.04-07.10.57:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.02.04-07.10.57:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.02.04-07.10.57:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.02.04-07.10.58:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.02.04-07.10.58:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.02.04-07.10.58:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.02.04-07.10.58:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.02.04-07.10.58:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.02.04-07.10.58:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.02.04-07.10.58:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.02.04-07.10.58:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.02.04-07.10.58:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.02.04-07.10.58:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.02.04-07.10.58:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.02.04-07.10.58:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap"
+[2017.02.04-07.10.58:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.02.04-07.10.58:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.02.04-07.10.58:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.02.04-07.10.58:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.02.04-07.10.58:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.02.04-07.10.58:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.02.04-07.10.58:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.02.04-07.10.58:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.02.04-07.10.58:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.02.04-07.10.58:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.02.04-07.10.58:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.02.04-07.10.58:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.02.04-07.10.58:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.02.04-07.10.58:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.02.04-07.10.58:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.02.04-07.10.58:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.02.04-07.10.58:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.02.04-07.10.58:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.02.04-07.10.58:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.02.04-07.10.58:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.02.04-07.10.58:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.02.04-07.10.58:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.02.04-07.10.58:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.02.04-07.10.58:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.02.04-07.10.58:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.02.04-07.10.58:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.02.04-07.10.58:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.02.04-07.10.58:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.02.04-07.10.58:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.02.04-07.10.58:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.02.04-07.10.58:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.02.04-07.10.58:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.02.04-07.10.58:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.02.04-07.10.58:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.02.04-07.10.58:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.02.04-07.10.58:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.02.04-07.10.58:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.02.04-07.10.58:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.02.04-07.10.58:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.02.04-07.10.58:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.02.04-07.10.58:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.02.04-07.10.58:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.02.04-07.10.58:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.02.04-07.10.58:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.02.04-07.10.58:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.02.04-07.10.58:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.02.04-07.10.58:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.02.04-07.10.58:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.02.04-07.10.58:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.02.04-07.10.58:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.02.04-07.10.58:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.02.04-07.10.58:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.02.04-07.10.58:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.02.04-07.10.58:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.02.04-07.10.58:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.02.04-07.10.58:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.02.04-07.10.58:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.02.04-07.10.58:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.02.04-07.10.58:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.02.04-07.10.58:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.02.04-07.10.58:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.02.04-07.10.58:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.02.04-07.10.58:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.02.04-07.10.58:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.02.04-07.10.58:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Door.uasset"
+[2017.02.04-07.10.58:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.02.04-07.10.58:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.02.04-07.10.58:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.02.04-07.10.58:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.02.04-07.10.58:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.02.04-07.10.58:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.02.04-07.10.58:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.02.04-07.10.58:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.02.04-07.10.58:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.02.04-07.10.58:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.02.04-07.10.58:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.02.04-07.10.58:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.02.04-07.10.58:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.02.04-07.10.58:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.02.04-07.10.58:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.02.04-07.10.58:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.02.04-07.10.58:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.02.04-07.10.58:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.02.04-07.10.59:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.02.04-07.10.59:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.02.04-07.10.59:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.02.04-07.10.59:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.02.04-07.10.59:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.02.04-07.10.59:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.02.04-07.10.59:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.02.04-07.10.59:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.02.04-07.10.59:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.02.04-07.10.59:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.02.04-07.10.59:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.02.04-07.10.59:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.02.04-07.10.59:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.02.04-07.10.59:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.02.04-07.10.59:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.02.04-07.10.59:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.02.04-07.10.59:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.02.04-07.10.59:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.02.04-07.10.59:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.02.04-07.10.59:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.02.04-07.10.59:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.02.04-07.10.59:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.02.04-07.10.59:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.02.04-07.10.59:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.02.04-07.10.59:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.02.04-07.10.59:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.02.04-07.10.59:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.02.04-07.10.59:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.02.04-07.10.59:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.02.04-07.10.59:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.02.04-07.10.59:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.02.04-07.10.59:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.02.04-07.10.59:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.02.04-07.10.59:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.02.04-07.10.59:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.02.04-07.10.59:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.02.04-07.10.59:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.02.04-07.10.59:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.02.04-07.10.59:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.02.04-07.10.59:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.02.04-07.10.59:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.02.04-07.10.59:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.02.04-07.10.59:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.02.04-07.10.59:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.02.04-07.10.59:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.02.04-07.10.59:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.02.04-07.10.59:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.02.04-07.10.59:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.02.04-07.10.59:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.02.04-07.10.59:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.02.04-07.10.59:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.02.04-07.10.59:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.02.04-07.10.59:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.02.04-07.10.59:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.02.04-07.10.59:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.02.04-07.11.00:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.02.04-07.11.00:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.02.04-07.11.00:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.02.04-07.11.00:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.02.04-07.11.00:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.02.04-07.11.00:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.02.04-07.11.00:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.02.04-07.11.00:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.02.04-07.11.00:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.02.04-07.11.00:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.02.04-07.11.00:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.02.04-07.11.00:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.02.04-07.11.00:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.02.04-07.11.00:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.02.04-07.11.00:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.02.04-07.11.00:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.02.04-07.11.00:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.02.04-07.11.00:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.02.04-07.11.00:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.02.04-07.11.00:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.02.04-07.11.00:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.02.04-07.11.00:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.02.04-07.11.00:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.02.04-07.11.00:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.02.04-07.11.00:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.02.04-07.11.00:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.02.04-07.11.00:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.02.04-07.11.00:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.02.04-07.11.00:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.02.04-07.11.00:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.02.04-07.11.00:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.02.04-07.11.01:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.02.04-07.11.01:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.02.04-07.11.01:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.02.04-07.11.01:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.02.04-07.11.01:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.02.04-07.11.01:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.02.04-07.11.01:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.02.04-07.11.01:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.02.04-07.11.01:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.02.04-07.11.01:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.02.04-07.11.01:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.02.04-07.11.01:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.02.04-07.11.01:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.02.04-07.11.01:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.02.04-07.11.01:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.02.04-07.11.01:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.02.04-07.11.01:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.02.04-07.11.01:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.02.04-07.11.01:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.02.04-07.11.01:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.02.04-07.11.01:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.02.04-07.11.01:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.02.04-07.11.01:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.02.04-07.11.01:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.02.04-07.11.01:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.02.04-07.11.01:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.02.04-07.11.01:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.02.04-07.11.01:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.02.04-07.11.01:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.02.04-07.11.01:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.02.04-07.11.01:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.02.04-07.11.01:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.02.04-07.11.02:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.02.04-07.11.02:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.02.04-07.11.02:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.02.04-07.11.02:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.02.04-07.11.02:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.02.04-07.11.02:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.02.04-07.11.02:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.02.04-07.11.02:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.02.04-07.11.02:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.02.04-07.11.02:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.02.04-07.11.02:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Projects/UE4/BPFundamentals/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.02.04-07.11.02:550][  0]LogRenderer: Reallocating scene render targets to support 256x256 NumSamples 1 (Frame:2).
+[2017.02.04-07.11.02:629][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2017.02.04-07.11.02:721][  0]LogSavePackage: Save=36.39ms
+[2017.02.04-07.11.02:721][  0]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/Floor_400x4003A6EFC8440679A2E252608B4125F1A7E.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.02.04-07.11.02:728][  0]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.02.04-07.11.02:728][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2017.02.04-07.11.02:733][  0]Cmd: MAP LOAD FILE="D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-07.11.02:734][  0]LightingResults: New page: Lighting Build
+[2017.02.04-07.11.02:794][  0]MapCheck: New page: Map Check
+[2017.02.04-07.11.02:794][  0]LightingResults: New page: Lighting Build
+[2017.02.04-07.11.03:085][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.02.04-07.11.03:086][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.04-07.11.03:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-07.11.03:097][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-07.11.03:129][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.829ms to complete.
+[2017.02.04-07.11.03:129][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.396
+[2017.02.04-07.11.03:187][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-07.11.03:250][  0]LogCollectionManager: Loaded 0 collections in 0.001677 seconds
+[2017.02.04-07.11.03:320][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Saved/Collections/' took 0.01s
+[2017.02.04-07.11.03:320][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Content/Developers/Rob/Collections/' took 0.01s
+[2017.02.04-07.11.03:320][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4/BPFundamentals/Content/Collections/' took 0.01s
+[2017.02.04-07.11.03:320][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.02.04-07.11.03:328][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2191 classes and 431 folders.
+[2017.02.04-07.11.03:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.04-07.11.03:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.02.04-07.11.03:362][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 13 classes and 0 folders.
+[2017.02.04-07.11.03:412][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.02.04-07.11.03:442][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.02.04-07.11.03:477][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.02.04-07.11.03:510][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.04-07.11.04:426][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.02.04-07.11.04:446][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.02.04-07.11.04:653][  0]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BPFundamentals
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display: BranchPath = DESKTOP-VGT605G/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = DESKTOP-VGT605G/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Rob\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.02.04-07.11.04:653][  0]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.02.04-07.11.04:702][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.02.04-07.11.04:702][  0]LogLoad: (Engine Initialization) Total time: 18.51 seconds
+[2017.02.04-07.11.04:702][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
+[2017.02.04-07.11.04:702][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.04-07.11.04:702][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.04-07.11.04:711][  0]LogOcInput: OculusInput pre-init called
+[2017.02.04-07.11.04:745][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.04-07.11.04:881][  0]LogRenderer: Reallocating scene render targets to support 1208x676 NumSamples 1 (Frame:3).
+[2017.02.04-07.11.04:912][  1]LogAssetRegistry: Asset discovery search completed in 13.8224 seconds
+[2017.02.04-07.11.04:912][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.02.04-07.11.04:913][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2017.02.04-07.11.13:143][720]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-07.11.13:157][720]LightingResults: New page: Lighting Build
+[2017.02.04-07.11.13:158][720]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.02.04-07.11.13:159][720]MapCheck: New page: Map Check
+[2017.02.04-07.11.13:160][720]LightingResults: New page: Lighting Build
+[2017.02.04-07.11.13:179][720]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.04-07.11.13:182][720]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.04-07.11.13:185][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-07.11.13:192][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-07.11.13:222][720]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.624ms to complete.
+[2017.02.04-07.11.13:223][720]LogFileHelpers: Loading map 'Template_Default' took 0.086
+[2017.02.04-07.11.27:906][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.04-07.11.27:936][148]LogSavePackage: Save=19.91ms
+[2017.02.04-07.11.27:936][148]LogSavePackage: Moving 'D:/Projects/UE4/BPFundamentals/Saved/MainD1E2BBF645104F46CA58EEAB9150CB40.tmp' to 'D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap'
+[2017.02.04-07.11.27:937][148]LogSavePackage:Display: Finished SavePackage D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap
+[2017.02.04-07.11.28:005][148]LogFileHelpers: Saving map 'Main' took 0.532
+[2017.02.04-07.12.09:040][255]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.09:040][255]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap.
+[2017.02.04-07.12.09:040][255]LoadErrors:Error: Error /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/StarterContent/Audio/Starter_Background_Cue
+[2017.02.04-07.12.09:044][255]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.09:045][255]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap.
+[2017.02.04-07.12.09:046][255]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.09:046][255]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.09:046][255]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.09:046][255]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.09:049][255]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.09:050][255]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue Referenced by Starter_Background_Cue_2
+[2017.02.04-07.12.09:050][255]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.09:053][255]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.02.04-07.12.09:054][255]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.04-07.12.09:065][255]Cmd: MAP LOAD FILE="D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-07.12.09:065][255]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.09:066][255]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2017.02.04-07.12.09:066][255]MapCheck: New page: Map Check
+[2017.02.04-07.12.09:066][255]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.09:079][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-07.12.09:090][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-07.12.09:120][255]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 29.624ms to complete.
+[2017.02.04-07.12.09:120][255]LogFileHelpers: Loading map 'Minimal_Default' took 0.056
+[2017.02.04-07.12.10:155][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire01_Cue'
+[2017.02.04-07.12.10:155][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset.
+[2017.02.04-07.12.10:155][360]LoadErrors:Error: Error /Game/StarterContent/Blueprints/Blueprint_Effect_Fire : Can't find file for asset. /Game/StarterContent/Audio/Fire01_Cue
+[2017.02.04-07.12.10:170][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire01_Cue'
+[2017.02.04-07.12.10:170][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset.
+[2017.02.04-07.12.10:170][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire01_Cue'
+[2017.02.04-07.12.10:171][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:171][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Fire01_Cue
+[2017.02.04-07.12.10:171][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire01_Cue'
+[2017.02.04-07.12.10:171][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:172][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire01_Cue'
+[2017.02.04-07.12.10:172][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue Referenced by AudioComponent_2
+[2017.02.04-07.12.10:172][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:176][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Smoke01_Cue'
+[2017.02.04-07.12.10:176][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Smoke01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset.
+[2017.02.04-07.12.10:176][360]LoadErrors:Error: Error /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke : Can't find file for asset. /Game/StarterContent/Audio/Smoke01_Cue
+[2017.02.04-07.12.10:178][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Smoke01_Cue'
+[2017.02.04-07.12.10:179][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Smoke01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset.
+[2017.02.04-07.12.10:179][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Smoke01_Cue'
+[2017.02.04-07.12.10:179][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Smoke01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:179][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Smoke01_Cue
+[2017.02.04-07.12.10:179][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Smoke01_Cue'
+[2017.02.04-07.12.10:179][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Smoke01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:180][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Smoke01_Cue'
+[2017.02.04-07.12.10:180][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue Referenced by AudioComponent_0
+[2017.02.04-07.12.10:180][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Smoke01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:183][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire_Sparks01_Cue'
+[2017.02.04-07.12.10:183][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire_Sparks01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset.
+[2017.02.04-07.12.10:184][360]LoadErrors:Error: Error /Game/StarterContent/Blueprints/Blueprint_Effect_Sparks : Can't find file for asset. /Game/StarterContent/Audio/Fire_Sparks01_Cue
+[2017.02.04-07.12.10:189][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire_Sparks01_Cue'
+[2017.02.04-07.12.10:189][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire_Sparks01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset.
+[2017.02.04-07.12.10:189][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire_Sparks01_Cue'
+[2017.02.04-07.12.10:190][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire_Sparks01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:190][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Fire_Sparks01_Cue
+[2017.02.04-07.12.10:190][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire_Sparks01_Cue'
+[2017.02.04-07.12.10:190][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire_Sparks01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:191][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Fire_Sparks01_Cue'
+[2017.02.04-07.12.10:191][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue Referenced by AudioComponent_3
+[2017.02.04-07.12.10:191][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Fire_Sparks01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:195][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Steam01_Cue'
+[2017.02.04-07.12.10:195][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Steam01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset.
+[2017.02.04-07.12.10:195][360]LoadErrors:Error: Error /Game/StarterContent/Blueprints/Blueprint_Effect_Steam : Can't find file for asset. /Game/StarterContent/Audio/Steam01_Cue
+[2017.02.04-07.12.10:198][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Steam01_Cue'
+[2017.02.04-07.12.10:198][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Steam01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset.
+[2017.02.04-07.12.10:198][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Steam01_Cue'
+[2017.02.04-07.12.10:198][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Steam01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:198][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Steam01_Cue
+[2017.02.04-07.12.10:198][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Steam01_Cue'
+[2017.02.04-07.12.10:198][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Steam01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:199][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Steam01_Cue'
+[2017.02.04-07.12.10:199][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue Referenced by AudioComponent_1
+[2017.02.04-07.12.10:199][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Steam01_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:347][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.10:347][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:347][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Collapse_Cue
+[2017.02.04-07.12.10:347][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.10:347][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:348][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Starter_Background_Cue
+[2017.02.04-07.12.10:348][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.10:348][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:348][360]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Starter_Music_Cue
+[2017.02.04-07.12.10:368][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.10:368][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:368][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.10:368][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:368][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.10:369][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.10:374][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.10:374][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading NULL.
+[2017.02.04-07.12.10:374][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.10:374][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.10:374][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.10:374][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading NULL.
+[2017.02.04-07.12.10:375][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.10:375][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading NULL.
+[2017.02.04-07.12.10:375][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.10:375][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.10:375][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.10:375][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading NULL.
+[2017.02.04-07.12.10:422][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.10:422][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue Referenced by Collapse_Cue_2
+[2017.02.04-07.12.10:422][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading NULL.
+[2017.02.04-07.12.10:422][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.10:423][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue Referenced by Starter_Background_Cue_2
+[2017.02.04-07.12.10:423][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.10:423][360]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.10:423][360]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue Referenced by Starter_Music_Cue_5
+[2017.02.04-07.12.10:423][360]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading NULL.
+[2017.02.04-07.12.10:794][360]LogAIModule: Creating AISystem for world StarterMap
+[2017.02.04-07.12.10:794][360]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.04-07.12.10:828][360]Cmd: MAP LOAD FILE="D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-07.12.10:828][360]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.10:829][360]LoadErrors: New page: Loading map: StarterMap.umap
+[2017.02.04-07.12.10:829][360]MapCheck: New page: Map Check
+[2017.02.04-07.12.10:829][360]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.10:849][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-07.12.10:861][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-07.12.10:902][360]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.314ms to complete.
+[2017.02.04-07.12.10:902][360]LogFileHelpers: Loading map 'StarterMap' took 0.075
+[2017.02.04-07.12.13:950][577]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.02.04-07.12.13:970][577]Cmd: MAP LOAD FILE="D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-07.12.13:970][577]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.13:971][577]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2017.02.04-07.12.13:972][577]MapCheck: New page: Map Check
+[2017.02.04-07.12.13:973][577]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.13:987][577]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-07.12.14:000][577]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-07.12.14:043][577]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 43.34ms to complete.
+[2017.02.04-07.12.14:043][577]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.074
+[2017.02.04-07.12.17:130][937]LogAIModule: Creating AISystem for world Main
+[2017.02.04-07.12.17:140][937]Cmd: MAP LOAD FILE="D:/Projects/UE4/BPFundamentals/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.04-07.12.17:140][937]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.17:141][937]LoadErrors: New page: Loading map: Main.umap
+[2017.02.04-07.12.17:141][937]MapCheck: New page: Map Check
+[2017.02.04-07.12.17:141][937]LightingResults: New page: Lighting Build
+[2017.02.04-07.12.17:153][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.04-07.12.17:165][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.04-07.12.17:209][937]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 43.039ms to complete.
+[2017.02.04-07.12.17:209][937]LogFileHelpers: Loading map 'Main' took 0.069
+[2017.02.04-07.12.20:020][263]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.04-07.12.20:028][263]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.02.04-07.12.20:033][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:033][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap.
+[2017.02.04-07.12.20:034][263]LoadErrors:Error: Error /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/StarterContent/Audio/Starter_Background_Cue
+[2017.02.04-07.12.20:035][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:035][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/Minimal_Default.umap.
+[2017.02.04-07.12.20:036][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:036][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.20:036][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:036][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.20:040][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:040][263]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue Referenced by Starter_Background_Cue_2
+[2017.02.04-07.12.20:040][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.20:043][263]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.02.04-07.12.20:043][263]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.04-07.12.20:052][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.20:052][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.20:052][263]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Collapse_Cue
+[2017.02.04-07.12.20:052][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:052][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.20:052][263]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Starter_Background_Cue
+[2017.02.04-07.12.20:053][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.20:053][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.20:053][263]LoadErrors:Error: Error /Game/StarterContent/Maps/StarterMap : Can't find file for asset. /Game/StarterContent/Audio/Starter_Music_Cue
+[2017.02.04-07.12.20:057][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.20:057][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.20:057][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:057][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.20:058][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.20:058][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Maps/StarterMap.umap.
+[2017.02.04-07.12.20:062][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading NULL.
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading NULL.
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.20:063][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading NULL.
+[2017.02.04-07.12.20:064][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:064][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.20:064][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.20:064][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading NULL.
+[2017.02.04-07.12.20:090][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Collapse_Cue'
+[2017.02.04-07.12.20:090][263]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue Referenced by Collapse_Cue_2
+[2017.02.04-07.12.20:090][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Collapse_Cue' while loading NULL.
+[2017.02.04-07.12.20:090][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Background_Cue'
+[2017.02.04-07.12.20:091][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Background_Cue' while loading NULL.
+[2017.02.04-07.12.20:091][263]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Starter_Music_Cue'
+[2017.02.04-07.12.20:091][263]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue Referenced by Starter_Music_Cue_5
+[2017.02.04-07.12.20:091][263]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Starter_Music_Cue' while loading NULL.
+[2017.02.04-07.12.20:110][263]LogAIModule: Creating AISystem for world StarterMap
+[2017.02.04-07.12.20:110][263]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.04-07.12.26:686][804]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Explosion_Cue'
+[2017.02.04-07.12.26:687][804]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset.
+[2017.02.04-07.12.26:687][804]LoadErrors:Error: Error /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion : Can't find file for asset. /Game/StarterContent/Audio/Explosion_Cue
+[2017.02.04-07.12.26:696][804]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Explosion_Cue'
+[2017.02.04-07.12.26:697][804]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion_Cue' while loading D:/Projects/UE4/BPFundamentals/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset.
+[2017.02.04-07.12.26:697][804]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Explosion_Cue'
+[2017.02.04-07.12.26:697][804]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion_Cue' while loading NULL.
+[2017.02.04-07.12.26:697][804]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Explosion_Cue'
+[2017.02.04-07.12.26:697][804]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion_Cue' while loading NULL.
+[2017.02.04-07.12.26:698][804]LogLinker:Warning: Can't find file '/Game/StarterContent/Audio/Explosion_Cue'
+[2017.02.04-07.12.26:698][804]LoadErrors: Info Failed to load /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue Referenced by AudioComponent_1
+[2017.02.04-07.12.26:698][804]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion_Cue' while loading NULL.
+[2017.02.04-07.12.32:180][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 111 classes and 0 folders.
+[2017.02.04-07.12.45:587][376]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.04-07.12.46:222][377]Cmd: QUIT_EDITOR
+[2017.02.04-07.12.46:268][377]LogExit: Preparing to exit.
+[2017.02.04-07.12.46:808][377]LogExit: Editor shut down
+[2017.02.04-07.12.46:808][377]LogExit: Transaction tracking system shut down
+[2017.02.04-07.12.46:896][377]LogObj: Freed 0b from 0 cluster array pools.
+[2017.02.04-07.12.46:896][377]LogExit: Object subsystem successfully closed.
+[2017.02.04-07.12.46:913][377]LogD3D11RHI: Shutdown
+[2017.02.04-07.12.46:913][377]LogD3D11RHI: CleanupD3DDevice
+[2017.02.04-07.12.47:028][377]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.02.04-07.12.47:040][377]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.02.04-07.12.47:040][377]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD04C9EB-4014-3544-274F-7E830A41A2DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=57f70e414f689f1839280392acc362fd%7C40911946cfa7465894c989476e6834a8%7C4aa0b87f-821b-4cf8-b5c7-c35230aeab8e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.02.04-07.12.47:049][377]LogModuleManager: Shutting down and abandoning module BlueprintGraph (246)
+[2017.02.04-07.12.47:049][377]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (245)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module NewLevelDialog (244)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (243)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (242)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module CrashTracker (241)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module SceneOutliner (240)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module WidgetCarousel (239)
+[2017.02.04-07.12.47:050][377]LogModuleManager: Shutting down and abandoning module AddContentDialog (238)
+[2017.02.04-07.12.47:051][377]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module GameplayTags (237)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module EditorWidgets (236)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module CollectionManager (235)
+[2017.02.04-07.12.47:052][377]LogDirectoryWatcher: A directory notification for 'D:/Projects/UE4/BPFundamentals/Content/Collections/' was aborted.
+[2017.02.04-07.12.47:052][377]LogDirectoryWatcher: A directory notification for 'D:/Projects/UE4/BPFundamentals/Content/Developers/Rob/Collections/' was aborted.
+[2017.02.04-07.12.47:052][377]LogDirectoryWatcher: A directory notification for 'D:/Projects/UE4/BPFundamentals/Saved/Collections/' was aborted.
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module StatsViewer (234)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module FoliageEdit (233)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module LandscapeEditor (232)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (231)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module ActorPickerMode (230)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module GeometryMode (229)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module TextureAlignMode (228)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module BspMode (227)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module HardwareSurvey (226)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (225)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module AutomationWorker (224)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (223)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module PlacementMode (222)
+[2017.02.04-07.12.47:052][377]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (221)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (220)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (219)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (218)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (217)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module Media (216)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (215)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (214)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module CharacterAI (213)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module SequenceRecorder (212)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module AudioCapture (211)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module SmartSnapping (210)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module SessionServices (209)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module ViewportSnapping (208)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module ViewportInteraction (207)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module LogVisualizer (206)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (205)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module IntroTutorials (204)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (203)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (202)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (201)
+[2017.02.04-07.12.47:053][377]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (200)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (199)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (198)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (197)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module InputBindingEditor (196)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module NiagaraEditor (195)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module MergeActors (194)
+[2017.02.04-07.12.47:380][377]LogModuleManager: Shutting down and abandoning module SizeMap (193)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module TreeMap (192)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module ReferenceViewer (191)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module LocalizationService (190)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (189)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module HardwareTargeting (188)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (187)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module UndoHistory (186)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module UserFeedback (185)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module XmlParser (184)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module Blutility (183)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (182)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (181)
+[2017.02.04-07.12.47:381][377]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (180)
+[2017.02.04-07.12.47:382][377]LogModuleManager: Shutting down and abandoning module SettingsEditor (179)
+[2017.02.04-07.12.47:382][377]LogModuleManager: Shutting down and abandoning module ProjectLauncher (178)
+[2017.02.04-07.12.47:382][377]LogModuleManager: Shutting down and abandoning module SessionFrontend (177)
+[2017.02.04-07.12.47:382][377]LogModuleManager: Shutting down and abandoning module ProfilerClient (176)
+[2017.02.04-07.12.47:382][377]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (175)
+[2017.02.04-07.12.47:382][377]LogModuleManager: Shutting down and abandoning module DeviceManager (174)
+[2017.02.04-07.12.47:423][377]LogModuleManager: Shutting down and abandoning module AutomationController (173)
+[2017.02.04-07.12.47:423][377]LogModuleManager: Shutting down and abandoning module AutomationWindow (172)
+[2017.02.04-07.12.47:423][377]LogModuleManager: Shutting down and abandoning module Layers (171)
+[2017.02.04-07.12.47:424][377]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (170)
+[2017.02.04-07.12.47:424][377]LogModuleManager: Shutting down and abandoning module DetailCustomizations (169)
+[2017.02.04-07.12.47:424][377]LogModuleManager: Shutting down and abandoning module PackagesDialog (168)
+[2017.02.04-07.12.47:424][377]LogModuleManager: Shutting down and abandoning module AnimGraph (167)
+[2017.02.04-07.12.47:424][377]LogModuleManager: Shutting down and abandoning module Persona (166)
+[2017.02.04-07.12.47:424][377]LogModuleManager: Shutting down and abandoning module Kismet (165)
+[2017.02.04-07.12.47:442][377]LogModuleManager: Shutting down and abandoning module GraphEditor (164)
+[2017.02.04-07.12.47:442][377]LogModuleManager: Shutting down and abandoning module ClassViewer (163)
+[2017.02.04-07.12.47:442][377]LogModuleManager: Shutting down and abandoning module Toolbox (162)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module ModuleUI (161)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module MovieSceneTools (160)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module OutputLog (159)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module GammaUI (158)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module Documentation (157)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module Niagara (156)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (155)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module AnalyticsET (154)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module PortalServices (153)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module PortalRpc (152)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module MessagingRpc (151)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module GameplayDebugger (150)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module AITestSuite (149)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module AIModule (148)
+[2017.02.04-07.12.47:443][377]LogModuleManager: Shutting down and abandoning module ProfilerService (147)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module TaskGraph (146)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
+[2017.02.04-07.12.47:489][377]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
+[2017.02.04-07.12.47:490][377]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module SourceControl (116)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
+[2017.02.04-07.12.47:491][377]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
+[2017.02.04-07.12.47:492][377]LogModuleManager: Shutting down and abandoning module HotReload (109)
+[2017.02.04-07.12.47:493][377]LogModuleManager: Shutting down and abandoning module MainFrame (108)
+[2017.02.04-07.12.47:493][377]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
+[2017.02.04-07.12.47:495][377]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
+[2017.02.04-07.12.47:497][377]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
+[2017.02.04-07.12.47:497][377]LogModuleManager: Shutting down and abandoning module UdpMessaging (104)
+[2017.02.04-07.12.47:599][377]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module Controlysis (102)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.02.04-07.12.47:699][377]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.02.04-07.12.47:700][377]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.02.04-07.12.47:704][377]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.02.04-07.12.47:704][377]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.02.04-07.12.47:704][377]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.02.04-07.12.47:704][377]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.02.04-07.12.47:704][377]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.02.04-07.12.47:704][377]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.02.04-07.12.47:704][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.02.04-07.12.47:705][377]LogDirectoryWatcher: A directory notification for 'D:/Projects/UE4/BPFundamentals/Content/' was aborted.
+[2017.02.04-07.12.47:705][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.02.04-07.12.47:705][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/Controlysis/Content/' was aborted.
+[2017.02.04-07.12.47:706][377]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.02.04-07.12.47:802][377]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.02.04-07.12.47:803][377]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.02.04-07.12.47:823][377]LogDerivedDataCache: Shutdown
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.02.04-07.12.47:823][377]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.02.04-07.12.47:824][377]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.02.04-07.12.47:824][377]LogOnline:Display: Unloading online subsystem: NULL
+[2017.02.04-07.12.47:825][377]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.02.04-07.12.47:827][377]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.02.04-07.12.47:827][377]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.02.04-07.12.47:827][377]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.02.04-07.12.47:827][377]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.02.04-07.12.47:827][377]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.02.04-07.12.47:827][377]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.02.04-07.12.47:829][377]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.02.04-07.12.47:832][377]LogExit: Exiting.
+[2017.02.04-07.12.47:849][377]Log file closed, 02/04/17 07:12:47
