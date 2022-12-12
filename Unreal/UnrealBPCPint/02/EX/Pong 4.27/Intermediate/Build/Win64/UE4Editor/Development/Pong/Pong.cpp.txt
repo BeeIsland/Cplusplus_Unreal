@@ -1,0 +1,2 @@
+C:\Users\camer\Desktop\Cplusplus_Unreal\Unreal\UnrealBPCPint\02\EX\Pong 4.27\Intermediate\Build\Win64\UE4Editor\Development\Pong\Definitions.Pong.h
+C:\Users\camer\Desktop\Cplusplus_Unreal\Unreal\UnrealBPCPint\02\EX\Pong 4.27\Source\Pong\Pong.h
