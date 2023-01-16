@@ -12,11 +12,13 @@ int main()
     char oper = '+';
     string test = "test";
     int testINt = 1;
-
-
+    Calculator calc;
+    vector<int> arr{-3,-2,-1,0,0,1,2,3,4};
 
     
     cout << &testINt << '\n';
+
+    calc.plusMinus(arr);
     /*
     cout << "Calculator Console App\n\n";
     cout << "Please enter the operation to perform. Format: a+b | a*b | a/b" << endl;
